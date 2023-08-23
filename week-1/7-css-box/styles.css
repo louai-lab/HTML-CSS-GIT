@@ -3,4 +3,13 @@
   border: 1px solid #4491db;
   border-radius: 4px;
   background: #fff;
+  margin: 20px;
+}
+
+.country {
+  width: 100px;
+  height: 20px;
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid black;
 }
