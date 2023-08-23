@@ -7,3 +7,25 @@
 }
 
 /* Add your own CSS code below */
+
+.countries--first{
+  justify-content: right;
+}
+
+.countries--second{
+  justify-content: center;
+  column-gap: 15px;
+}
+
+.countries--third{
+  display: flex;
+  flex-direction: column;
+  justify-content:end;
+}
+
+.countries--fourth{
+  display: flex;
+  flex-direction: column-reverse;
+  row-gap: 30px;
+  justify-content: center;
+}
