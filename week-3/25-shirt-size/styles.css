@@ -1,1 +1,11 @@
 /* Add your CSS below */
+
+screenreader {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    left: -2000px;
+  }
+
+  .shopping-basket__items tr th:nth-child(3){
+    display: none;
+  }
